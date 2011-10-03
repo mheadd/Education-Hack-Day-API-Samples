@@ -10,7 +10,7 @@ How to Contribute
 =================
 
 1. Fork this repo.
-  * git clone git@github.com:mheadd/Education-Hack-Day-API-Samples.git
+  * See http://help.github.com/fork-a-repo/
 
 2. Create a new branch with your contact information or organization name.
   *  git checkout -b john@qpublic.com
@@ -30,4 +30,4 @@ How to Contribute
 Acknowlegements
 ===============
 
-Inspored by the awesome git-powered organizing for the [Hack4Reno](https://github.com/hack4reno) civic coding event.
+Inspired by the awesome git-powered organizing for the [Hack4Reno](https://github.com/hack4reno) civic coding event.
