@@ -1,0 +1,14 @@
+Localist has an API that allows event content at various schools across the nation to be retrieved.
+
+Full documentation is available at http://docs.localist.com under the heading: Localist API.
+
+To get a valid API key, sign up on the Localist demo instance at http://localist.com/baltimore. From your Dashboard, go to your Settings page. You'll see a box on the right with your API key. You can then use that key to access Localist API methods.
+
+Baltimore schools using Localist:
+http://fyi.mica.edu
+http://events.jhu.edu
+http://events.ndm.edu
+http://events.towson.edu
+http://events.mcdaniel.edu
+http://events.goucher.edu
+http://events.umbiopark.com
