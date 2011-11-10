@@ -1,0 +1,9 @@
+The GreatSchools API is a REST-based web service.
+
+Note that all path components and parameters must be properly URL-encoded.
+
+Complete documentation on the GreatSchools API can be found here:
+
+http://www.greatschools.org/api/docs/main.page
+
+A centralized API key has been provisioned for Education Hack Day that may be used by attendees that wish to utilize the GreatSchools API.  Please contact one of the organizers at the event to obtain this key.
