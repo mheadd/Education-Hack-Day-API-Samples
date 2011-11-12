@@ -1,7 +1,7 @@
 CloudMine API Examples
 ======================
 
-CloudMine provides a set of APIs for command backend services to developers.  With CloudMine you can:
+CloudMine provides a set of APIs for common backend services to developers.  With CloudMine you can:
 
 1. Store and retreive arbitrary data
 2. Perform user management (enable your app with user accounts)
